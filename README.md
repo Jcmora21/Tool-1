@@ -12,4 +12,4 @@ Tool 1 for ethical hacking
 
 `$ pip install -r requirements.txt`
 
-`$ python3 tool1.py`
+```python3 pc_components_tester.py
