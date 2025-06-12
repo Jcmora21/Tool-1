@@ -10,7 +10,8 @@ Tool 1 for ethical hacking
 
 `$ cd Tool-1`
 
-`$ pip install -r requirements.txt`
+```bash
+pip install -r requirements.txt
 
 ```bash
 python3 pc_components_tester.py
