@@ -8,12 +8,12 @@ Tool 1 for ethical hacking
 
 Copy the repository
 ```bash
-git clone https://github.com/Jcmora21/Tool-1.git`
+git clone https://github.com/Jcmora21/Tool-1.git
 ```
 
 Open the Folder
 ```bash
-cd Tool-1`
+cd Tool-1
 ```
 
 Install requirements
