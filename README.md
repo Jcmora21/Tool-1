@@ -8,7 +8,7 @@ Tool 1 for ethical hacking
 
 `$ git clone https://github.com/Jcmora21/Tool-1.git`
 
-`$ cd Tool1`
+`$ cd Tool-1`
 
 `$ pip install -r requirements.txt`
 
