@@ -1,4 +1,4 @@
-# TOOl
+# TOOL
 
 Tool 1 for ethical hacking
 
